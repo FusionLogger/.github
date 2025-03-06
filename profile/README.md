@@ -1,1 +1,2 @@
-# Omnilogger
+# FusionLogger
+by Lasse-Leander Hillen
